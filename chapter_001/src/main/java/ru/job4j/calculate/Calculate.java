@@ -13,6 +13,12 @@ package ru.job4j.calculate;
  */
 
 public class Calculate {
+    /**
+     *
+     * @param a = a.
+     * @param b = b
+     * @return = ret
+     */
     public int cal(int a, int b) {
 	    return a * b;
 }

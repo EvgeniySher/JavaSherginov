@@ -8,7 +8,11 @@ import static org.junit.Assert.assertThat;
  *
  */
 public class CalculatorTest {
+    /**
+     * Тут могла бы быть ваша реклама.
+     */
     @Test
+
     public void whenAddOnePlusOneThenTwo() {
         Calculator calc = new Calculator();
         calc.plus(1D, 1D);
